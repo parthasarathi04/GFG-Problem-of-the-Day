@@ -1,4 +1,4 @@
-# GFG-Problem-of-the-Day-
+# GFG-Problem-of-the-Day
 GFG Problem of the Day Solutions 
 https://practice.geeksforgeeks.org/problem-of-the-day
 
