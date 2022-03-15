@@ -23,7 +23,7 @@ class GFG{
 }// } Driver Code Ends
 
 
-//User function Template for Java
+//User function Template for Java 
 class Solution 
 { 
     int count(int N, int A[], int X) 
